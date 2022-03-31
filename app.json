@@ -1,7 +1,7 @@
 {
   "buildpacks": [
     {
-      "url": "https://github.com/erickyun/FlareSolverr"
+      "url": "https://github.com/erickyun/FlareSolverr/raw/master/Dockerfile"
     },
     {
       "url": "erickyun/FlareSolverr"
